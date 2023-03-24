@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=OrderList
+comment1.params=item\ count
+comment1.target=void\ addItem(MenuItem,\ int)
+comment2.params=discount
+comment2.target=void\ setDiscount(int)
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4
